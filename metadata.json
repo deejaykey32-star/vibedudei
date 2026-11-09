@@ -1,0 +1,6 @@
+{
+  "name": "VibeEduDei – Nauka Vibe Codingu po Angielsku",
+  "description": "Interaktywna platforma do nauki vibe codingu, prompt engineeringu, grafiki AI, e-marketingu oraz zarządzania (PM, PO, Scrum Master, certyfikacje) z kołem 48 tematów i ćwiczeniami wideo z YouTube.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
